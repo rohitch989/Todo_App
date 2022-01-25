@@ -14,7 +14,6 @@ class TeamOmegaButton extends PureComponent {
     return <button type={type} onClick={this.handleClick} className={className} id={id}>
       {text}
     </button>
-
   }
 }
 TeamOmegaButton.propTypes = {

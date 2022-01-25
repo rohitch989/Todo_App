@@ -36,7 +36,6 @@ class modal extends Component {
     return (
       <Modal isOpen={this.state.isOpen} className='modal' onRequestClose={() => this.setState(prev => ({ input: prev.input, isOpen: false }))}>
         <div className='model-box'>
-
           <TeamOmegaHeader text='Update' type="h1" />
           <form className='modal-form' onSubmit={this.handleSubmit}>
             <TeamOmegaInputBox type='text' placeholder='Update a Todo' values={this.state.input} handlerChange={this.handleChange} focus={true} />

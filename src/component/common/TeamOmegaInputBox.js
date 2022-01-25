@@ -10,7 +10,6 @@ class TeamOmegaInputBox extends PureComponent {
     const { type, name, values, placeholder, className, id, focus } = this.props;
 
     return <input type={type} name={name} placeholder={placeholder} className={className} id={id} value={values} onChange={this.handleChange} autoFocus={focus} />
-
   }
 }
 TeamOmegaInputBox.propTypes = {

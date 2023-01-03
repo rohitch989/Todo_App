@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rohitch989/Todo_App/static/css/main.aec898fd.css",
+    "main.js": "/rohitch989/Todo_App/static/js/main.adc88cc8.js",
+    "index.html": "/rohitch989/Todo_App/index.html",
+    "main.aec898fd.css.map": "/rohitch989/Todo_App/static/css/main.aec898fd.css.map",
+    "main.adc88cc8.js.map": "/rohitch989/Todo_App/static/js/main.adc88cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec898fd.css",
+    "static/js/main.adc88cc8.js"
+  ]
+}

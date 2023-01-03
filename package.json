@@ -1,7 +1,7 @@
 {
   "name": "todo_app",
   "version": "0.1.0",
-  "homepage": "https://github.com/rohitch989/todo_app",
+  "homepage": "https://rohitch989.github.io/Todo_App/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
